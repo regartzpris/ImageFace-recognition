@@ -2,6 +2,10 @@ import React from 'react';
 
 import Navigation from './components/Navigation';
 import Logo from './components/Logo';
+import ImageLinkForm from './components/ImageLinkForm';
+
+
+
 // import FaceRecognition from './components/FaceRecognition'
 
 import './App.css';
@@ -12,7 +16,7 @@ function App() {
 
       <Navigation />
       <Logo />
-      {/* <ImageLinkForm /> */}
+      <ImageLinkForm />
       {/* <FaceRecognition /> */}
 
       
