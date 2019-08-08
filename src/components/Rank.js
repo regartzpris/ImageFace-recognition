@@ -4,8 +4,7 @@ const Rank=()=>{
     return(
         <div>
             <div className='white f3'>
-                your current rank is ..... 
-                #1
+                Please input your image url
             </div>
         </div>
     )
